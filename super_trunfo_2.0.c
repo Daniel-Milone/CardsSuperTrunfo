@@ -98,7 +98,7 @@ int main() {
     Carta carta2 = {0};
 
     // =================================================================
-    // Cadastro das duas cartas  (reaproveitado do seu código anterior)
+    // Cadastro das duas cartas
     // =================================================================
     printf("=== CADASTRO DA CARTA 1 ===\n");
 
